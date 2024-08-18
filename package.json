@@ -1,0 +1,23 @@
+{
+  "name": "currency-convertor-js",
+  "version": "1.0.0",
+  "description": "An Package to Convert Currency in real time.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+ "keywords": [
+    "npm"
+  ],
+  "author": "Prakhar Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakharagarwal1/currency-convertor-js/issues"
+  },
+  "homepage": "https://github.com/prakharagarwal1/currency-convertor-js#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
